@@ -1,3 +1,4 @@
+#include "main.h"
 
 /**
  * aux_help - func to helping  infom the builtin help.
