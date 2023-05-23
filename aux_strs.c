@@ -1,3 +1,4 @@
+#include "main.h"
 
 /**
  * _strcat - func for concatenating 2 strings
