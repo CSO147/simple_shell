@@ -1,3 +1,4 @@
+#include "main.h"
 
 /**
  * error_env - func for error message for env in get_env.
