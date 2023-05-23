@@ -1,3 +1,4 @@
+#include "main.h"
 
 /**
  * add_rvar_node - func adding a variable at the end
