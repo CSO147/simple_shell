@@ -1,4 +1,4 @@
-
+#include "main.h"
 /**
  * aux_help_env - function to help inform the builtin env
  * Return: 0
