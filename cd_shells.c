@@ -1,3 +1,4 @@
+#include "main.h"
 
 /**
  * cd_shell - func to change directory
