@@ -1,3 +1,4 @@
+#include "main.h"
 
 /**
  * _strdup - To duplicating a str in the heap memory.
