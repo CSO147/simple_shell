@@ -1,3 +1,4 @@
+#include "main.h"
 
 /**
  * cd_dot - changing to the parent directory
