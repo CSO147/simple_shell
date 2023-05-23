@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * add_sep_node_end - function adding separator
  * @head: linked list head.
