@@ -1,4 +1,4 @@
-
+#include "main.h"
 
 /**
  * _memcpy - function that copies information btwn pointers
