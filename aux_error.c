@@ -1,4 +1,4 @@
-
+#include "main.h"
 
 /**
  * strcat_cd - func concatenaing the message for cd error
