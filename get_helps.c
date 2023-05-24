@@ -1,3 +1,6 @@
+#include "main.h"
+
+
 /**
  * get_help - func retrieving help
  * messages according builtin
