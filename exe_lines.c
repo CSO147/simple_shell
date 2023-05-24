@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * exec_line - func to finds builtins and commands
  *
