@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * swap_char - swaping | and & for non-printed chars
  *
