@@ -1,3 +1,6 @@
+#include "main.h"
+
+
 /**
  * get_error - calling  the error according the builtin
  * @datash: data structure that contains arg
