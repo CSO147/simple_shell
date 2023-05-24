@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * read_line - func that reads the input strin
  * @i_eof: return value of getline function
