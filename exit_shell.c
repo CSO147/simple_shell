@@ -1,3 +1,6 @@
+#include "main.h"
+
+
 /**
  * exit_shell - funct for closing the shell
  * @datash: data relevant
