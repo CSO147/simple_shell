@@ -1,6 +1,4 @@
 #include "main.h"
-
-`
 /**
  * copy_info - func  copying the info to be create
  * a new env or alias
