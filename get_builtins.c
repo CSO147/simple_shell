@@ -1,3 +1,6 @@
+#include "main.h"
+
+
 /**
  * get_builtin - for builtin that pais the command in the arg
  *
