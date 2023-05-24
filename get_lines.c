@@ -1,3 +1,6 @@
+#include "main.h"
+
+
 /**
  * bring_line - function to assign the line var for get_line
  * @lineptr: Buffer that stores the input str
