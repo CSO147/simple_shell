@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * check_env - verifing if the typed variable is an envn variable
  * @h: linked list head
