@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * free_data - func that frees data structure
  * @datash: data structure
