@@ -1,3 +1,6 @@
+#include "main.h"
+
+
 /**
  * get_sigint - func to handle the crtl + c call in prompt
  * @sig: Signal handler
